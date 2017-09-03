@@ -1,0 +1,15 @@
+[1] http://insideenergy.org/2015/11/06/lost-in-transmission-how-much-electricity-disappears-between-a-power-plant-and-your-plug/
+[2] Složena organizacija udruženog rada za proizvodnju, prenos i distribuciju elektriène energije - Elektroprivreda
+Bosne i Hercegovine: "Gubici elektriène energije i snage u distributivnim mrežama", Sarajevo, 1980.
+[3] Bosanskohercegovaèki komitet Meðunarodnog vijeæa za velike elektriène sisteme CIGRE, "Bosanskohercegovaèka elektrotehnika", Sarajevo, 2010.
+[4] J. Nagi: "An Intelligent System For Detection Of Non-Technical Losses In Tenaga Nasional Behrad (TNB) Malaysia Low Voltage Distribution Network", Tenaga, 2009.
+[5] S. Khobragade, D. Meshram: "Commercial Loss Reduction Techniques in Distribution Sector - An Initiative by MSEDCL
+[6] Iskraemeco, AMR – sistem daljinskog oèitavanja brojila, kataloška dokumentacija, 2016.
+[7] ISGT Europe: "Advanced Metering Infrastructure Functionalities For Electric Mobility", 2010.
+[8] Hrvatski ogranak meðunarodne elektrodistribucijske konferencije: "Upotreba AMR/AMM sistema u otkrivanju komercijalni gubitaka elektriène energije", Osijek, 2016.
+[9] D. Domazet: "Digitalno brojilo elektriène energije", Zagreb, 1998. 
+[10] I. Ivšinoviæ: "Kvaliteta elektriène energije", Zagreb, 2003. 
+[11] HEP, "Tehnièki uvjeti za ogranièavala strujnog optereæenja".
+[12] A. Muhamedagiæ: "Elektronska brojila elektriène energije", Sarajevo, 2015.
+
+
